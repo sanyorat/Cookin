@@ -7,6 +7,8 @@ import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
 import { MODALCLOSESEC } from './config.js';
 
+// test local commit
+
 // const query = document.getElementsByClassName('search__field');
 
 // https://forkify-api.herokuapp.com/v2
