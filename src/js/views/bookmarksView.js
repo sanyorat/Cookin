@@ -3,6 +3,7 @@ import icons from '../../img/icons.svg';
 
 class BookMarksView extends View {
   _parentElement = document.querySelector('.bookmarks');
+  _errorMessage = 'Bharosa rakh bhai m sab sahi kar sakta hun!';
   _message = 'Find you Faviorite Recipies to Bookmark.';
 
   addHandlerRender(handler) {
