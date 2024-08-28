@@ -11,8 +11,6 @@ import { MODALCLOSESEC } from './config.js';
 
 // const query = document.getElementsByClassName('search__field');
 
-// https://forkify-api.herokuapp.com/v2
-
 ///////////////////////////////////////
 if (module.hot) {
   module.hot.accept();
